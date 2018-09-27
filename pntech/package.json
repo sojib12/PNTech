@@ -1,0 +1,17 @@
+{
+  "name": "pntech",
+  "version": "1.0.0",
+  "description": "Simple Web Page",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Sojib",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.17",
+    "pug": "^2.0.3"
+  }
+}
